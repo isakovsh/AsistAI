@@ -41,7 +41,7 @@ Developers can access AsistAi's API to integrate the chatbot into their own appl
 
 To use AsistAi, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/AsistAi.git`
+1. Clone the repository: `git clone https://github.com/isakovsh/AsistAi.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Train the AI model using the provided dataset: `python train.py`
 4. Launch the chatbot interface using Streamlit: `streamlit run app.py`
