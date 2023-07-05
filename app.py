@@ -11,7 +11,7 @@ from langchain.chains import RetrievalQA
 from langchain import PromptTemplate
 
 dotenv.load_dotenv()
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'Api key'
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "translate.json"
 translation_client = translate.TranslationServiceClient()
