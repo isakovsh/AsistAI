@@ -1,0 +1,12 @@
+openai
+streamlit
+faiss-cpu
+python-dotenv
+pypdf2
+pypdf 
+tiktoken 
+textract 
+transformers
+python-dotenv
+streamlit_chat
+langchain==0.0.150
